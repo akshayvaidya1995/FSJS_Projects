@@ -10,4 +10,4 @@
 
 ## Live Website [Link](https://lcp01.netlify.app/)
 
-# ![live-class-project-1] (Project-01.png)
+![live-class-project-1] (Project-01.png)

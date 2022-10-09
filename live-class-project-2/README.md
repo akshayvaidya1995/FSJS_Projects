@@ -11,4 +11,4 @@
 
 ## Live website [Link](https://lcp02.netlify.app/)
 
-# [live-class-project-2] (Project-02.png)
+![live-class-project-2] (Project-02.png)
