@@ -8,6 +8,6 @@
 ## Time taken to complete
 ### 5-6 hours
 
-## Live link [Link](https://cute-elf-1cd8d8.netlify.app/)
+## Live Website [Link](https://lcp01.netlify.app/)
 
-# live-class-project-1![1](Project-01.png)
+# live-class-project-1  [1](Project-01.png)
