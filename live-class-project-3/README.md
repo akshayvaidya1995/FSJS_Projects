@@ -11,4 +11,4 @@
 
 ## Live Website [Link](https://lcp03.netlify.app/)
 
-# ![LIVE-CLASS-PROJECT-3] (Project-03.png)
+![Image](Project-03.png)
