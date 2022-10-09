@@ -11,4 +11,4 @@
 
 ## Live Website [Link](https://lcp03.netlify.app/)
 
-![live-class-project-3] (https://github.com/akshayvaidya1995/FSJS_Projects/blob/main/live-class-project-3/Project-03.png)
+# ![3] (Project-03.png)
